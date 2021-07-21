@@ -1,0 +1,33 @@
+body {
+  background-image: url("lib.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  width: 50%;
+  height: 100%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 10%;
+  text-decoration: none;
+  color: black;
+  font-size: 2rem;
+  font-weight: 600;
+}
+li {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.item {
+  background-color: rgba(240, 240, 240, 0.5);
+  width: 40%;
+  height: 100%;
+  padding: 5%;
+}
+.item2 {
+  float: left;
+}
